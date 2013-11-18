@@ -1,0 +1,26 @@
+{
+  "name": "mongoscape",
+  "version": "0.0.1",
+  "description": "Escape MongoDB queries so they can be stored inside MongoDB.",
+  "keywords": [
+    "mongo",
+    "mongodb",
+    "query",
+    "escape",
+    "unescape"
+  ],
+  "main": "index.js",
+  "author": "Max Kueng <me@maxkueng.com> (http://maxkueng.com/)",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/maxkueng/mongoscape/raw/master/LICENSE"
+    }
+  ],
+  "devDependencies": {
+    "tape": "~2.1.0"
+  }
+}
