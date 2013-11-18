@@ -1,6 +1,8 @@
 mongoscape
 ==========
 
+[![Build Status](https://secure.travis-ci.org/maxkueng/mongoscape.png?branch=master)](http://travis-ci.org/maxkueng/mongoscape)
+
 Escape MongoDB queries so they can be stored inside MongoDB
 
 ![YO DWAG](./xzibit.jpg)
